@@ -1,0 +1,3 @@
+SECRET_KEY = 'alksdjflwijfe'
+SQLALCHEMY_DATABASE_URI = 'sqlite:///QA.db'
+SQLALCHEMY_TRACK_MODIFICATIONS = True
